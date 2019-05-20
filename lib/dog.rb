@@ -4,4 +4,4 @@ end
 
 fido = Dog.new
 
-snoopy =
+snoopy = 
